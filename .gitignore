@@ -1,0 +1,10 @@
+autoload
+plug.vim
+plugins
+pluggins
+exts
+tmp
+.undo
+.init.vim-rplugin~
+.swp
+.DS_Store
